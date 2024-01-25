@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: 50px;
+}
+
+#about {
+    background-color: indianred;
+    color: white;
+    padding:20px;
+    width: 30%;
+    font-style: initial;
+    text-decoration: underline;
+    border: solid;
+    border-color: darkred;
+    display: inline-block;
+
+}
+
+#interests {
+    background-color: royalblue;
+    color: white;
+    padding: 20px;
+    width: 50%;
+    text-decoration: underline;
+    border: solid;
+    border-color: darkblue;
+    display: inline-block;
+}
+
+h1 {
+   color :rgb(122, 99, 90, 256); font-style: italic; font-weight: bolder; font-size: 50px;
